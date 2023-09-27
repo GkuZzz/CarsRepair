@@ -1,1 +1,1 @@
-# Landing pge
+# Landing page
